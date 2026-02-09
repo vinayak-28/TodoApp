@@ -1,0 +1,35 @@
+{
+  "common": {
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Loading…",
+    "retry": "Retry",
+    "emptyState": "No TODOs yet."
+  },
+  "mainScreen": {
+    "headerTitle": "My To-Do List",
+    "title": "Tasks",
+    "counters": {
+      "total": "Total",
+      "completed": "Completed"
+    },
+    "filters": {
+      "all": "All",
+      "active": "Active",
+      "done": "Done"
+    },
+    "sort": {
+      "mostRecent": "Most Recent",
+      "id": "ID"
+    }
+  },
+  "addTodoScreen": {
+    "title": "Add New Task",
+    "placeholderTitle": "What do you need to do?"
+  }
+}
+
+
